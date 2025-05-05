@@ -4,7 +4,7 @@ Use Tensorflow to train and learn images
 The original implementation can be found at 
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
 
-We'll be using mobilenet with parameters 0.50 and 224 in this example.
+I'll be using mobilenet with parameters 0.50 and 224 in this example.
 
 # Folders layout:
 
